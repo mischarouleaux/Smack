@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Smack
 //
-//  Created by Mischa Rouleaux on 14-08-17.
-//  Copyright © 2017 Mischa Rouleaux. All rights reserved.
+//  Created by Jonny B on 7/14/17.
+//  Copyright © 2017 Jonny B. All rights reserved.
 //
 
 import UIKit
