@@ -12,16 +12,12 @@ class ChannelVC: UIViewController {
 
     //Outlets
     @IBOutlet weak var loginBtn: UIButton!
-    
+    @IBAction func prepareForUnwind(segue: UIStoryboardSegue){}
     
     
     //Actions
     @IBAction func loginBtnPressed(_ sender: Any) {
         performSegue(withIdentifier: TO_LOGIN, sender: nil)
-    }
-    
-    @IBAction func closePressed(_ sender: Any) {
-        dismiss(animated: true, completion: nil)
     }
     
     

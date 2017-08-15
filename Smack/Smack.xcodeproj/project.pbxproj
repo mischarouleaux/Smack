@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A8437951F422C0A00146AF6 /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8437941F422C0A00146AF6 /* CreateAccountVC.swift */; };
 		0AAF7C781F41F8D400FE9264 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAF7C771F41F8D400FE9264 /* GradientView.swift */; };
 		0AAF7C7B1F42037B00FE9264 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAF7C7A1F42037B00FE9264 /* Constants.swift */; };
 		0AAF7C7D1F420BAC00FE9264 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AAF7C7C1F420BAC00FE9264 /* LoginVC.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A8437941F422C0A00146AF6 /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		0AAF7C771F41F8D400FE9264 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		0AAF7C7A1F42037B00FE9264 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		0AAF7C7C1F420BAC00FE9264 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				F932BF461F19AB4200EBDCFC /* ChatVC.swift */,
 				F932BF481F19AB5200EBDCFC /* ChannelVC.swift */,
 				0AAF7C7C1F420BAC00FE9264 /* LoginVC.swift */,
+				0A8437941F422C0A00146AF6 /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				0AB62C171F41D11D0069CD18 /* SWRevealViewController.m in Sources */,
 				F932BF491F19AB5200EBDCFC /* ChannelVC.swift in Sources */,
+				0A8437951F422C0A00146AF6 /* CreateAccountVC.swift in Sources */,
 				0AAF7C7D1F420BAC00FE9264 /* LoginVC.swift in Sources */,
 				0AAF7C781F41F8D400FE9264 /* GradientView.swift in Sources */,
 				F932BF471F19AB4200EBDCFC /* ChatVC.swift in Sources */,
