@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A5CFAC11F58A616005E5FE8 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A5CFAC01F58A616005E5FE8 /* CircleImage.swift */; };
 		0A71E6C71F443A4C00463C70 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A71E6C61F443A4C00463C70 /* RoundedButton.swift */; };
 		0A71E6CA1F444FB300463C70 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A71E6C81F444EAA00463C70 /* SwiftyJSON.framework */; };
 		0A7AB47E1F548EAD000957A2 /* AvatarPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7AB47D1F548EAD000957A2 /* AvatarPickerVC.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A5CFAC01F58A616005E5FE8 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		0A71E6C61F443A4C00463C70 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 		0A71E6C81F444EAA00463C70 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = "../../../Library/Developer/Xcode/DerivedData/Smack-fybrbfpnisalwhalfpqidyexrlst/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework"; sourceTree = "<group>"; };
 		0A7AB47D1F548EAD000957A2 /* AvatarPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarPickerVC.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				0AAF7C771F41F8D400FE9264 /* GradientView.swift */,
 				0A71E6C61F443A4C00463C70 /* RoundedButton.swift */,
 				0A7AB47F1F549109000957A2 /* AvatarCell.swift */,
+				0A5CFAC01F58A616005E5FE8 /* CircleImage.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				0AB62C171F41D11D0069CD18 /* SWRevealViewController.m in Sources */,
 				0A7AB47E1F548EAD000957A2 /* AvatarPickerVC.swift in Sources */,
 				0A71E6C71F443A4C00463C70 /* RoundedButton.swift in Sources */,
+				0A5CFAC11F58A616005E5FE8 /* CircleImage.swift in Sources */,
 				F932BF491F19AB5200EBDCFC /* ChannelVC.swift in Sources */,
 				0AFD3FE51F4B6365005A3ED4 /* UserDataService.swift in Sources */,
 				0A8437951F422C0A00146AF6 /* CreateAccountVC.swift in Sources */,
